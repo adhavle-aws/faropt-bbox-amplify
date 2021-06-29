@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@amzn/awsui-components-react": "^3.0.275",
     "@aws-amplify/ui-react": "^1.2.3",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -11,7 +12,13 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^1.0.1",
+    "ajv": "^6.12.0",
+    "axios": "^0.21.1",
+    "c3": "^0.7.20",
+    "d3": "^5.16.0",
+    "react-vis": "^1.11.7",
+    "react-parcoords": "^0.3.0"
   },
   "scripts": {
     "start": "react-scripts start",

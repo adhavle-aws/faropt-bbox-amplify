@@ -32,6 +32,12 @@
         "categories": {
             "auth": {
                 "faroptbboxfbaeb098": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d39tu1sltcomu9",
+                    "type": "cicd"
+                }
             }
         }
     }
